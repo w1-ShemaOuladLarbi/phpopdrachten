@@ -43,7 +43,7 @@
         ?>
     </p>
     <h4 class="Opdracht2Punt2H4">
-        Taak 3
+        Taak  3
     </h4>
     <p class="Opdracht2Punt2P">
         <?php
