@@ -33,5 +33,13 @@
         echo $verhaal;
         ?>
     </p>
+    <?php
+    $verhaal2 = $evenement . $evenement2 . $getal1 . $activiteit . $ijs . $organisator . $stad . $provincie . $getal2 . $getal3 . $getal4;
+    ?>
+    <p>
+        <?php
+        echo $verhaal2;
+        ?>
+    </p>
 </div>
 </body>
