@@ -1,14 +1,14 @@
 <?php/**
  * User: Shema Oulad Larbi
  * Date: 19-2-2020
- * Time: 11:38
+ * Time: 11:40
  * File: opdracht2.2.php
  */?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8"/>
-    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="../index.css">
     <title><?php print "Opdracht 2.2"; ?></title>
 </head>
 <body>
@@ -55,6 +55,6 @@
         ?>
     </p>
 </div>
-<a href="index.php">Terug</a>
+<a href="../index.php">Terug</a>
 </body>
 </html>
