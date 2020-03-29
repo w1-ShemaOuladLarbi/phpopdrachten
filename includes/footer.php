@@ -8,7 +8,7 @@ echo "<div class=\"footer\">
 <?php
 $uur = date("H");
 date_default_timezone_set("Europe/Amsterdam");
-if ($uur < "12") {
+if ($uur < "12"){
     echo "Goedemorgen";
 } elseif ($uur < "17") {
     echo "Goedemiddag";
